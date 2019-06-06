@@ -1,3 +1,8 @@
+Fork Notes
+==========
+
+Fork of Role Strategy Plugin that uses jenkins.model.IdStrategy for case insensitive user IDs. 
+
 Role Strategy plugin
 ====================
 
